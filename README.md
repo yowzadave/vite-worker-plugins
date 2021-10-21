@@ -1,7 +1,4 @@
-# Vue 3 + Vite
+# User-defined plugins in Vite build
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+A minimal reproduction of the issue described here:
+https://github.com/vitejs/vite/issues/5375
